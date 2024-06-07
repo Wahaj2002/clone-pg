@@ -1,0 +1,54 @@
+html{
+    font-family: "PT Serif", serif;
+    background-color: #000000;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.head-10{
+    text-align: center;
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+.head-1{
+    text-align: center;
+    font-size: 3rem;
+    color: #ffffff;
+}
+li{
+    display: inline;
+    margin: 0 auto;
+    color: #ffffff;
+    
+}
+ul{
+    text-align: center;
+}
+li{
+    padding:   30px;
+    
+}
+.div-2{
+    padding: 20px;
+    cursor: pointer;
+    background-color: #3f1010;
+   
+}
+img{
+    display: inline;
+    
+   
+}
+p{
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: solid;
+    color: #ffffff;
+}
+.img-1{
+    text-align: center;
+}
+li:hover{
+    color: red;
+}
